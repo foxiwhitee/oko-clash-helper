@@ -1,0 +1,6 @@
+{
+  "versionCode": 10400,
+  "versionName": "1.4.0",
+  "apkUrl": "https://github.com/foxiwhitee/oko-clash-helper/releases/download/v1.4.0/oko-1.4.0.apk",
+  "changelog": "1.4.0: per-level building icons, CoC JSON import (levels + timers), edit/finish timers, boost stacking, assistant auto-repeat, auto-update support, getItemLevels fix."
+}
